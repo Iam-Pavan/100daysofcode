@@ -1,2 +1,3 @@
 # 100daysofcode
-python
+--learning python 
+
