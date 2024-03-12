@@ -19,4 +19,9 @@ print("enter previous password must and should in same")
 rpassword = int(input("create your password"))
 print("your email ",rEmail,"and your password",rpassword)
 
+if(Email == rEmail && password == rpassword):
+    print("good job!, you are verified")
+    print("your Email is",rEmail)
+    print("your password is",password)
+
 
