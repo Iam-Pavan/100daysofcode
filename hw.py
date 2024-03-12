@@ -1,10 +1,8 @@
 #hello world program
 #output function print()
 print("hello world")
-var = 19
 
-print(type(var),var)
-
+print("**  login form  **")
 Email = str(input("enter email: "))
 print("password must and should in numbers")
 
