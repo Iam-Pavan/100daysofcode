@@ -5,7 +5,9 @@ var = 19
 
 print(type(var),var)
 
-Email = input(str("enter email: "))
+Email = str(input("enter email: "))
 print("password must and should in numbers")
-password = input(int("create your password"))
-print(Email,password)
+password = int(input("create your password"))
+print("your email ",Email,"and your password",password)
+
+print("check your mail and password")
