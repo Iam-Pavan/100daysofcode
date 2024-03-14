@@ -50,10 +50,24 @@ print(len(input("what is your name?\n")))
 print("**python variables")
 name = "Elite\n"
 print(name)
-name = input("wht is your name?")
+name = input("wht is your name?\n")
 print(name)
 
 length = len(name)
 print(length)
+
+#there are two variables ,a and b
+print("**switching variable")
+a= input()
+b= input()
+#creating a third variable to help switch the variable
+c = a
+a = b
+b = c
+print("a:" +a)
+print("b:"+b)
+print("**variable naming")
+
+
 
 
