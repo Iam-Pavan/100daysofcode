@@ -1,4 +1,4 @@
-print("hello world")
+print("hello python 14/mar/2024")
 print("the python day_1 learning python code\n")
 
 print("**print modifiers")
@@ -22,10 +22,38 @@ print("--string concatenation")
 print("hello"+" "+"iam"+" "+"py\n")
 
 print("**debugging practice \n")
-#missing double quote before the word day
+#1.missing double quote before the word day
 # print(day 1-string manipulation")
 print("day 1-string manipulation")
 
-# outer double quotes changed to single quote
+# 2.outer double quotes changed to single quote
 # print("string concatenation is done with the "+" sign.")
 print('string concatenation is done with the "+" sign ')
+
+# 3.extra indentation removed
+#  print('e.g print("hello"+"helo")')
+print('e.g print("hello"+ "world")\n')
+
+# 4.extra parentheses
+#print(("hello world")
+print("helo world\n")
+#python the input function
+print("**python the input function")
+print('the input("A prompt for the user") ')
+# input("what is your name?")
+#input() will get user input in console
+# then print() will print the word "hello" and the user input
+print("hello "+ input("what is your name?")+"!")
+print(len(input("what is your name?\n")))
+
+# python variables
+print("**python variables")
+name = "Elite\n"
+print(name)
+name = input("wht is your name?")
+print(name)
+
+length = len(name)
+print(length)
+
+
