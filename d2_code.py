@@ -51,5 +51,35 @@ print(3*3+3/3-3)
 # 3*3 9, 3/3 1.0, 9+1.0, -3
 print(3*(3+3)/3-3)
 #3+3 6, 3*6 18, 18/3 3.0,
-print("**[Interactive Coding Exercise] BMI Calculator")
+print("**[Interactive Coding Exercise] BMI Calculator\n")
+# 1st input enter height in meter e.g: 1.65
+height = input("enter height: ")
+# 2nd input enter weight in kilograms e.g: 72
+weight = input("enter weight: ")
+
+height_as_float = float(height)
+weight_as_int = int(weight)
+
+bmi = weight_as_int / height_as_float ** 2
+bmi_as_int = int(bmi)
+print(bmi,"\n")
+
+print("***Number Manipulation and F Strings in Python")
+# print(8/3)
+print(int(8/3))
+#round  8/3 n_digits
+print(round(8/3,2))
+result = 4/2
+result /=2
+print(result)
+
+score = 0
+score += 1
+print(score)
+
+print("the score is: "+str(score))
+# f-string
+print(f"the score is {score}, the result is {result}")
+
+
 
