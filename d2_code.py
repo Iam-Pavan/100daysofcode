@@ -27,5 +27,6 @@ print("your name has "+new_num_char+" characters")
 a = str(123)
 print(type(a))
 print(40+float("70"))
+#float add 40+70
 print(str(5)+str(5))
 
