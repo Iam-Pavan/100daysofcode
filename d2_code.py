@@ -81,5 +81,10 @@ print("the score is: "+str(score))
 # f-string
 print(f"the score is {score}, the result is {result}")
 
+print("**[Interactive Coding Exercise] life in weeks\n")
 
-
+age = input("age: ")
+# your code below this line
+years = 90 - int(age)
+weeks = years * 52
+print(f"you have {weeks} left.")
