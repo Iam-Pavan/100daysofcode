@@ -11,3 +11,11 @@ day-1
   ->python variables
   ->variable naming
   ***--Day_1 project band name generator in python--***
+day-2
+  *15/mar/2024*
+  learning python
+  --Python Primitive Data Types
+  --Type Error, Type Checking and Type Conversion
+  -- Mathematical Operations in Python
+  --Number Manipulation and F Strings in Python
+  ***Project: Tip Calculator***
