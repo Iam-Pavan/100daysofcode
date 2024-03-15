@@ -30,3 +30,11 @@ print(40+float("70"))
 #float add 40+70
 print(str(5)+str(5))
 
+two_digit_number = input()
+first_digi = int(two_digit_number[0])
+second_digit  = int(two_digit_number[1])
+
+# add two integers togather
+two_digit_number = first_digi + second_digit
+print(two_digit_number)
+
