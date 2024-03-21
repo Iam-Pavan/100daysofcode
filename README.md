@@ -18,3 +18,5 @@ _day-2
   ->Mathematical Operations in Python
   ->Number Manipulation and F Strings in Python
   ***Project: Tip Calculator***
+ _day-3
+ 
