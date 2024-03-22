@@ -16,7 +16,7 @@ else:
     print("sorry, you have to grow taller before you can ride.")
 
 
-print("interact with exercising code\n")
+print("****interact with exercising code\n")
 
 # which number do you want to check
 print("enter and check the number is odd or even")
@@ -40,7 +40,8 @@ if year % 4 == 0:
         print("leap year")
 else:
     print("not leap year")
-print("--multiple if statements in succession")
+print("----multiple if statements in succession")
+print("-----ogical operators= and or not")
 print("welcome to the rollercoaster!")
 height = int(input("what is your height in cm?: "))
 bill = 0
@@ -53,6 +54,8 @@ if height >= 120:
     elif age <= 18:
         bill = 7
         print("youth ticket pay $7")
+    elif age >= 45 and age <= 55:
+        print("everything is ok going to be ok . have a free ride on us")
     else:
         bill = 12
         print("adult ticket pay $12")
@@ -64,7 +67,7 @@ if height >= 120:
 else:
     print("sorry, you have to grow taller before you can ride.\n")
 
-print("interact with exercising code\n")
+print("****interact with exercising code\n")
 print("pizza order practice\n")
 print("thank you for choosing python pizza deliveries ")
 size = input("size \"s\": ")
@@ -87,6 +90,11 @@ if add_pepperoni == "y":
         bill +=3
 if extra_cheese == "y":
    bill += 1
-print(f"your final bill is ${bill}.")
+print(f"your final bill is ${bill}.\n")
+print("*****interact with exercising code\n")
+
+
+
+
 
 
