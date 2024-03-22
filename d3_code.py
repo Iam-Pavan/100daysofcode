@@ -92,9 +92,29 @@ if extra_cheese == "y":
    bill += 1
 print(f"your final bill is ${bill}.\n")
 print("*****interact with exercising code\n")
+print("the love calculator is calculating your score.... ")
+name1 = input("wht is ur name: ")
+name2 = input("wht is their name: ")
 
-
-
-
-
+combined_names = name1 + name2
+lower_names  = combined_names.lower()
+t=lower_names.count("t")
+r=lower_names.count("r")
+u=lower_names.count("u")
+e=lower_names.count("e")
+first_digit = t+r+u+e
+print(first_digit)
+l=lower_names.count("l")
+o=lower_names.count("o")
+v=lower_names.count("v")
+e=lower_names.count("e")
+second_digit = l+o+v+e
+print(second_digit)
+score = int(str(first_digit) + str(second_digit))
+if (score < 10) or (score > 90):
+    print(f"your score is {score}, you go together like coke mentos ")
+elif(score >= 40) and (score <= 50):
+    print(f"your score is {score}, you are alright together")
+else:
+ print(f"your score is {score}.")
 
