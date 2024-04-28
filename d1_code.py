@@ -1,4 +1,4 @@
-print("hello python 14/mar/2024")
+print("hello python 22/may/2024")
 print("the python day_1 learning python code\n")
 
 print("**print modifiers")
