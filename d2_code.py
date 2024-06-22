@@ -45,8 +45,8 @@ print("**mathematical operators in python")
 # **
 # *
 # /
-# -
 # +
+# -
 print(3*3+3/3-3)
 # 3*3 9, 3/3 1.0, 9+1.0, -3
 print(3*(3+3)/3-3)
