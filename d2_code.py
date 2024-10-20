@@ -1,13 +1,21 @@
 #python primitive data types
 #strings
+from sys import float_repr_style
+
+
 print("pavan"[4])
 
 print("123"+"345")
 # integer
 print(123+456)
-#121_234_456
-# float 3.25448
 
+#large number
+print(56446_454545)
+#121_234_456
+
+
+# float 3.25448
+print(2.5655)
 # boolean true or false
 print("***type error type checking type conversion")
 # num_char = len(input("whate is your name"))

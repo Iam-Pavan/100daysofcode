@@ -41,7 +41,7 @@ if year % 4 == 0:
 else:
     print("not leap year")
 print("----multiple if statements in succession")
-print("-----ogical operators= and or not")
+print("-----logical operators= and or not")
 print("welcome to the rollercoaster!")
 height = int(input("what is your height in cm?: "))
 bill = 0
