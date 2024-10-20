@@ -67,6 +67,7 @@ b = c
 print("a:" +a)
 print("b:"+b)
 print("**variable naming")
+print()
 
 
 
