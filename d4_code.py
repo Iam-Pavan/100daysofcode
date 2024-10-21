@@ -1,6 +1,7 @@
 import random
 import random as r
 
+from six import print_
 from userpath.cli import append
 
 # random interger
@@ -46,4 +47,20 @@ print()
 print("** append the value")
 fruits.extend(["ramesh","govind"])
 print(fruits)
+print()
 
+print("*** who will pay the bill ")
+friends = ["Alice","Bob","Charlie","David","Emanuel"]
+# 1 option
+print(random.choice(friends))
+# 2 option
+random_index = random.randint(0,4)
+print(friends[random_index])
+if "Bob" in friends:
+    print("ok")
+print()
+
+print("** nested list")
+nested = [fruits, friends]
+print(nested)
+print(nested[1][-1])
