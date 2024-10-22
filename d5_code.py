@@ -1,4 +1,4 @@
-from itertools import count
+# from itertools import count
 
 print("** day 5 of coding")
 print("for looping")
