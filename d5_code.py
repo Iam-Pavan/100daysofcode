@@ -1,3 +1,5 @@
+from itertools import count
+
 print("** day 5 of coding")
 print("for looping")
 fruits = ["apple","peach","pear"]
@@ -23,5 +25,15 @@ for score in student_score:
         max_score = score
         # print(max_score)
 print(max_score)
+print()
+
+print("** add numbers in loop with range() function")
+number = 0
+for i in range(100):
+    number += i+1
+print(number)
+
+
+
 
 
