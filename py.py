@@ -1,2 +1,10 @@
+import  random
+# import pizza_order_practice
+# print(pizza_order_practice.pizza_size)
 
-color = "blue"
+friend = ["makara","bakara","thepura","daddhoba"]
+choices = random.randint(0,3)
+print(friend[choices])
+
+
+
