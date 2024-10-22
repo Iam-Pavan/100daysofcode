@@ -23,3 +23,4 @@ for score in student_score:
         max_score = score
         # print(max_score)
 print(max_score)
+
