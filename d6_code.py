@@ -7,7 +7,3 @@ print("day 6 of coding\n")
 
 
 
-
-
-
-
