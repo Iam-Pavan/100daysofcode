@@ -53,6 +53,7 @@ _day_6
   "Hurdles Challenge using While Loops"
   "Jumping over Hurdles with Variable Heights"
   ***--Final Project: Escaping the Maze***
+_day_6
   ""
   ""
   ""
