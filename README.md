@@ -51,7 +51,7 @@ _day_6
   "Code Indentation Quiz"
   " While Loops"
   "Hurdles Challenge using While Loops"
-  ""
+  "Jumping over Hurdles with Variable Heights"
   ""
   ""
   ""
