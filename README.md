@@ -54,7 +54,7 @@ _day_6
   "Jumping over Hurdles with Variable Heights"
   ***--Final Project: Escaping the Maze***
 _day_7
-  "27/oct"
+  "27/oct/2024"
   ""
   ""
   ""
