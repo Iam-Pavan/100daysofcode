@@ -52,7 +52,7 @@ _day_6
   " While Loops"
   "Hurdles Challenge using While Loops"
   "Jumping over Hurdles with Variable Heights"
-  ***--Final Project: Escaping the Maze***
+  ***--day 6 Project: Escaping the Maze***
 _day_7
   "27/oct/2024"
   " Day 7 Goals: what we will make by the end of the day"
@@ -62,6 +62,7 @@ _day_7
   " Step 3 - Checking if the Player has Won"
   " Step 4 - Keeping Track of the Player's Lives"
   " Step 5 - Improving the User Experience"
+  ***--Day 7 Project: Beginner-Hangman Game***
   ""
   ""
   ""
