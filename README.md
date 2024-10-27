@@ -63,6 +63,7 @@ _day_7
   " Step 4 - Keeping Track of the Player's Lives"
   " Step 5 - Improving the User Experience"
   ***--Day 7 Project: Beginner-Hangman Game***
+_day_8
   ""
   ""
   ""
