@@ -55,8 +55,8 @@ _day_6
   ***--Final Project: Escaping the Maze***
 _day_7
   "27/oct/2024"
-  ""
-  ""
+  " Day 7 Goals: what we will make by the end of the day"
+  " How to break a Complex Problem down into a Flow Chart"
   ""
   ""
   ""
