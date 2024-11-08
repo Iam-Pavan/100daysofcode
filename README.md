@@ -64,7 +64,7 @@ _day_7
   " Step 5 - Improving the User Experience"
   ***--Day 7 Project: Beginner-Hangman Game***
 _day_8
-  ""
+  " "
   ""
   ""
   ""
